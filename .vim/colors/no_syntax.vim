@@ -26,7 +26,7 @@ highlight Statement  ctermfg=15
 highlight PreProc	 ctermfg=15
 highlight Type		 ctermfg=15
 highlight Special	 ctermfg=15
-highlight Error					 ctermbg=9			                guibg=#ff0000
+highlight Error	     ctermfg=25	 ctermbg=0			                guibg=#ff0000
 highlight TODOs		 ctermfg=130 ctermbg=0
 highlight Directory  ctermfg=2
 highlight StatusLine ctermfg=0   ctermbg=15  cterm=none
